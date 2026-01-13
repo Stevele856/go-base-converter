@@ -3,7 +3,7 @@ package services
 import (
 	"fmt"
 
-	"github.com/number-system/internal/utils"
+	"github.com/number-system/utils"
 )
 
 func BaseToDecimal(value string, base int) (int, error) {

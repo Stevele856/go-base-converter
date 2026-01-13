@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"fmt"
 
-	"github.com/number-system/internal/utils"
+	"github.com/number-system/utils"
 	"github.com/number-system/services"
 )
 
