@@ -13,3 +13,4 @@ A simple command-line application written in Go that converts numbers between di
 
 ## Purpose
 This project is built for learning Go fundamentals, clean code structure, and CLI application design.
+# go-base-converter
